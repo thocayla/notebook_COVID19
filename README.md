@@ -1,4 +1,4 @@
-### Notebook Python permettant de suivre l'évolution de la COVID-19 selon les données hospitalières françaises
+## Notebook Python permettant de suivre l'évolution de la COVID-19 selon les données hospitalières françaises
 
 code_to_import.py : Script qui importe les données, génère les widgets et le graphique
 
