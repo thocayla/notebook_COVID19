@@ -4,7 +4,7 @@ code_to_import.py : Script qui importe les données, génère les widgets et le 
 
 notebook_to_run.ipynb : Notebook qui plot les data
 
-* **Source** : [ICI](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/)
-* **Scope** : Granularité jour
+* **Source** : [Lien](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/)
+* **Scope** : Données agrégées à la journée
 * **Auteur** : Thomas Cayla
 * **Update** : 09/11/2020
