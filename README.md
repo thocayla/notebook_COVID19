@@ -1,4 +1,8 @@
-### Script permettant de visualiser les données de santé du COVID-19 en France
+### Notebook Python permettant de suivre l'évolution de la COVID-19 selon les données hospitalières françaises
 
-* **code_to_import**: Functions that load the data, generate the widgets and plot data you want
+* **code_to_import**: Script qui importe les données, génère les widgets et 
 * **notebook_to_run**: Plot data
+* **Source** : [ICI](https://www.data.gouv.fr/fr/datasets/donnees-hospitalieres-relatives-a-lepidemie-de-covid-19/)
+* **Scope** : Granularité jour
+* **Auteur** : Thomas Cayla
+* **Update** : 09/11/2020
